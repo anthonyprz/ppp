@@ -1,4 +1,4 @@
-
+package coches;
 public abstract class Coche {
 	String marca;
 	String modelo;
