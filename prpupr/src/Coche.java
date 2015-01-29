@@ -1,5 +1,5 @@
 
-public class Coche {
+public abstract class Coche {
 	String marca;
 	String modelo;
 	int numeroDePuertas;
